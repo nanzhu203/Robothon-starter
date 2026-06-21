@@ -1,1 +1,5 @@
+mujoco
+numpy
+gTTS
+SpeechRecognition
 
